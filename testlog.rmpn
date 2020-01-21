@@ -1,0 +1,31 @@
+[Event "FourCommonSouthAkaKuitan"]
+[Site "Tenhou"]
+[Date "2020.01.20"]
+[Round "South, 3"]
+[Honba "0"]
+[Kyotaku "0"]
+[East "Suzuki"]
+[South "Tanaka"]
+[West "Kobayashi"]
+[North "Yamanaka"]
+[Result "Agari"]
+[Style "Horizontal"]
+
+[Annotator "NoName"]
+[Termination ""]
+[Mode "IMS"]
+
+$Start 169 452 120 259
+$Wall -
+dora=E
+0. 4m8m9m1p2p5p5pa9p1s2s4sES
+1m3m4p6p7p8p9p2s5s5sSSS
+4m6m8m9m2p4p1s3s5s9sWWhG
+3m8m2p3p4p6p8p1s2s9sNNWh
+1. Rx 6s3m 8sWh 8sWh 2. 8s9p 4s1m 1sG 9px 3. Nx * * P8m
+4. 8m9m Gx 6mW 9px 5. 3s1s 7mx 8p9s 4p3m 6. 7mE 9sx 3s1s 2mx
+7. Rx 3sx 7s1s Rx 8. 7sS K {Comments here.}* * 9. * 5max dora=E 1px 7m9s 10. Whx 7p4p 6p9m Nx
+11. 6m8m Rx 1px W7m 12. 9s4m+ Wx 5s8m 5pW 13. 4sx 1mx 6s4m 3p4p
+14. 1mx 3px#;Comments Here.
+$Ron East fu=30 ura=3m9m "立直",1 "赤ドラ",1 pt=39
+$End 39 -39 0 0

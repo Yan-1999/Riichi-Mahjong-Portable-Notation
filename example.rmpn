@@ -1,0 +1,217 @@
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "East 1"]
+[Honba "0"]
+[Kyotaku "0"]
+[East "田中さん"]
+[South "鈴木さん"]
+[West "Jack, White"]
+[North "Tom, Black"]
+[Style "Horizontal"]
+{dice:3,6}
+$Start 250 250 250 250 
+doraind=5pa
+0. 1m5m9m2p3p6p6p7p8p4s6sSG 2m6m6m9m2p3s5sa7s7s8s9sEG 4m8m8m1p4p5p6p7p9p1sNWhR 1m7m8m9m3p3p5p7p9p5sSWR 
+1. 4mS 4sE 1pN 8sW 2. 3sG 1pG 7pR 6sS 3. 5s9m R9m 5ma1s 4p8s 4. 8p1m 3sR Ex 8s1m 5. Sx Whx 3mWh 1m8s 6. Nx Ex 8p1p 2m1m 
+7. Ex 9mx 3p+1p 6sR 8. 7s2p #
+$Ron West fu=30 uraind=W "立直",1 "一発",1 "平和",1 "ドラ",1 "赤ドラ",1 pt=80,"満貫"
+$End 170 250 330 250 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "East 2"]
+[Honba "0"]
+[Kyotaku "0"]
+[East "鈴木さん"]
+[South "Jack, White"]
+[West "Tom, Black"]
+[North "田中さん"]
+[Style "Horizontal"]
+{dice:1,2}
+$Start 250 330 250 170 
+doraind=Wh
+0. 2m3m6m1p2p4p5p7p7p2s7sNN 1m3m5m7m7m7m8m4p6p3s5sa6sG 1m7p9p2s2s3s4s7s8s9sWhRR 3m8m1p8p8p1s6sESSWNWh 
+1. 5mN 6p3s 4m1m 4p6s 2. 5mN 9mG 9mx 8s8m 3. Wx 1px G9p 8s4p 4. 9sx 6sx E7p 9s3m 5. Wx 3sx 3p4m W1p 6. 2m7s 1sx 5s3p R8p 
+7. Ex 6sx 2sE 3mx 8. 6p2s 8m7m 1px N8p 9. 3p2m 7p4p 4mx 4sx 10. 9mx 8p1m 1mx 4sx 11. 8sx 6m6p 4px 3px 12. 2p1p 9m3m 5sWh 6px 
+13. 8mx 1s8m 9px 5max 14. 7sx 9s5m R+5s 1mWh 15. 8p7p S7p Whx 5pa1m 16. C(2m3m)5m 3s5sa 1sx 2pW 17. 4mx 2p1s 4mx 2mW 18. 2mx G7m 6mx 
+$Ryuukyoku "流局"
+{Tenpai: East West }
+$End 265 315 255 155 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "East 2"]
+[Honba "1"]
+[Kyotaku "1"]
+[East "鈴木さん"]
+[South "Jack, White"]
+[West "Tom, Black"]
+[North "田中さん"]
+[Style "Horizontal"]
+{dice:4,2}
+$Start 265 315 255 155 
+doraind=9s
+0. 1m4m8m9m3p6p7p7p2s7sWWhR 8m8m9m5p7p8p1sESWWNWh 5ma5m6m6m7m8m2p7p9p9p7sNG 2m3m1p5p6p1s2s4s5s7s9sSW 
+1. 5pW 5saN N7s SW 2. 9mR 1mE 6sx 3s1p 3. 6pWh 5sWh RN Rx 4. 6s1m 1px 4pN 9px 5. 1p2s 6mS 7sx 1sS 6. Nx Gx 1mx 8pS 
+7. 4p1p 8sW 8sx 6p8p 8. 3sx EW 9sx 7mx 9. 4sx WhE 8pR 2px 10. 8p4m 4sWh 8sx 4s5p 11. 6s9m Ex 9mG 2mx 12. 7m+7s 3s6m 9p2p #
+$Ron East fu=30 uraind=3s "立直",1 "一発",1 "平和",1 pt=58
+$End 336 315 194 155 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "East 2"]
+[Honba "2"]
+[Kyotaku "0"]
+[East "鈴木さん"]
+[South "Jack, White"]
+[West "Tom, Black"]
+[North "田中さん"]
+[Style "Horizontal"]
+{dice:2,1}
+$Start 336 315 194 155 
+doraind=G
+0. 4m4m6m3p5p1s4s5sa5s7sNRR 5m6m2p4p5p2s2s3s5s8s9s9sE 5ma6m3p7p7p9p4s5s7sEWWG 1m2m3m7m8m9m1p6p1s1s2s4s7s 
+1. 5pN 6sE 8mE E6p 2. 4p1s 8s2p Sx 3s4s 3. Whx 2s9s 4m7s 4pE 4. Wx Wh9s G8m 6px 5. 1px 2pWh 1sx N4p 6. 6s6m 5pa2p 8sx 6sx 
+7. R+5p G5p 9mx 4mN 8. 3mx 3mx 5m3p 3s1p 9. Sx 1mG P5m 8px 10. 1mx 9p1m 9sx 2m4m 11. 4sx 7m6m 3px 7s+2m 12. Whx Ex 8p7p 2mx 
+13. 3mx 1mx 9px Rx 14. 9sx 9m5m 2px 9mx 15. 6s#
+$Tsumo East fu=40 uraind=S "立直",1 "門前清自摸和",1 "役牌 中",1 "ドラ",3 "赤ドラ",1 pt=60,"跳満"
+$End 532 253 132 83 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "East 2"]
+[Honba "3"]
+[Kyotaku "0"]
+[East "鈴木さん"]
+[South "Jack, White"]
+[West "Tom, Black"]
+[North "田中さん"]
+[Style "Horizontal"]
+{dice:5,2}
+$Start 532 253 132 83 
+doraind=9p
+0. 3m3m5m4p5p3s6s6s8sNNGG 1m8m1p2p7p9p2s3s5s7s8sWhR 7m8m1p1p3p5pa5sa5s7s9sSWhG 4m5m1p4p6p1s4s7sSWWhGR 
+1. 7mN 3sR 8mS 4sW 2. 7pN 7p1m 9sG * 3. P3s 3mWh 6pWh 9pG 4. 8p8s Wx Ex 8sWh 5. 3p7m 9m3m * * 6. P5m 8p7p Ex 2mS 
+7. 9mx 4mx 1sx 9pR 8. 2sx 2p5s 2mx 6m1s 9. 2px Wx 8px Rx 10. 5sx 4s3s 6m3p 4p2m 11. 2mx 9m2p 2sx 6mx 12. 6sx 6mx N8m 4s8s 
+13. 6p#
+$Tsumo East fu=30 "役牌 發",1 pt=5
+$End 556 245 124 75 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "East 2"]
+[Honba "4"]
+[Kyotaku "0"]
+[East "鈴木さん"]
+[South "Jack, White"]
+[West "Tom, Black"]
+[North "田中さん"]
+[Style "Horizontal"]
+{dice:4,1}
+$Start 556 245 124 75 
+doraind=8p
+0. 4m5m8m9m1p3p1s5s9sEWWWh 1m2m4m7m2p4p5p6p2s3sEWhR 2m2m6m6m1s1s3s3s4s6s6sSN 1m1m5m1p1p3p6p4s7s8sSGR 
+1. 2pWh 8mWh 7pN Whx 2. E1s 9pE * * 3. P9s 4sR 7p+4s 4pR 4. 6mW 8m9p 9sx 2sG 5. Sx #
+$Ron West fu=25 uraind=3m "立直",1 "七対子",2 pt=32
+$End 512 245 168 75 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "East 3"]
+[Honba "0"]
+[Kyotaku "0"]
+[East "Jack, White"]
+[South "Tom, Black"]
+[West "田中さん"]
+[North "鈴木さん"]
+[Style "Horizontal"]
+{dice:5,3}
+$Start 245 168 75 512 
+doraind=7p
+0. 4m2p2p3p4p5p7p8p4s8sEWhG 3m3m7m8m8m9m2p4p6p9sNGR 1m3m9m4p7p3s4s9sSSWNG 1m4m9m1p7p8p5s6s9sEWNG 
+1. 8mG 4mN 5s9s 5saW 2. 8sWh 8p9s 3p9m 2sN 3. 7mE RG WhN 6mG 4. 1sx 9p8m EG Wx 5. 2s4m 4m9p 1mW 2mE 6. 5max 8sx 9sE 9p9s 
+7. 2s8s Sx 6m9s 6p1p 8. 1s8s 1sx 7sWh 9p9m 9. Rx 7mx 3s6m Wx 10. 7m1s 4p2p 5p3s 5m2s 11. 2m2s Nx 7sS 2m1m 12. 3s2m 4sx 1m7p Whx 
+13. 2p8m 6sx 7sS 5s+6s 14. 1s2s 1px Whx 3px 15. 6sx 1px 9mx Sx 16. 5m3p 8sx 4s1m 8px 17. 6p8p 3p8p 5p1m 6mx 18. 6sx 2sx 
+$Ryuukyoku "流局"
+{Tenpai: North }
+$End 235 158 65 532 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "East 4"]
+[Honba "1"]
+[Kyotaku "1"]
+[East "Tom, Black"]
+[South "田中さん"]
+[West "鈴木さん"]
+[North "Jack, White"]
+[Style "Horizontal"]
+{dice:3,1}
+$Start 158 65 532 235 
+doraind=7m
+0. 4m4m5m6m6m8m1p3p5pa4s9sWhR 1m1m9m4p8p9p1s2s3s9sENG 2m3m1p2p6p6p9p9p3s9sEWN 2m7m2p3p6p7p7p5sa5s6sSGG 
+1. 1s9s 3mG * PS 2. R1s 5mN 8pN 9m2m 3. 2mWh 5pE Sx 2sx 4. 8sx 8p9s 7sE 9sx 5. 5ma2m 3m9m Nx 6m9m 6. 6m4s 7m9p 3pW Whx 
+7. Gx 8m5m Wx 6sx 8. Whx Sx 8s3s 2sx 9. 6p1p 4m3m 8s9p Sx 10. 4sx 7sx 1m8s 4p5s 11. Ex 4s1s 6s+x 4p6s 12. 2sx 4s8p 6sx 2m7p #
+$Ron West fu=40 uraind=W "立直",1 pt=13
+$End 158 65 558 219 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "South 1"]
+[Honba "0"]
+[Kyotaku "0"]
+[East "田中さん"]
+[South "鈴木さん"]
+[West "Jack, White"]
+[North "Tom, Black"]
+[Style "Horizontal"]
+{dice:2,6}
+$Start 65 558 219 158 
+doraind=7m
+0. 1m1m1p2p3p5p7s7s8sESRR 8m4p4p4p5p6p6s8s9s9sESN 3m9m1p1p2p5p8p8p9p6s7s8sW 2m4m6m8m9m8p9p2s3s7s8sNG 
+1. 5paS WhE 2m9m 8pN 2. Gx WhN Wx 4sG 3. 7pE 5saS 3mW 9s8p 4. R7p Wx Gx 5m2m 5. 1sx 3s9s Nx 4px 6. Ex 1s9s 6sx 8m+9m 
+7. 1m+7s Sx 4m7s 3mx 8. 2sx 5sx 1p3m 7mx 9. 7mx 6mx Ex 9mx 10. 6mx 9mx 5m8p 1mx 11. 5mx 1sx N5m 3sx 12. 4mx 5s1s 4mx 3px 
+13. RK * * * 14. 2mx doraind=9p Gx 7pN 4sx 15. 2sx 2p3s 7px #
+$Ron North fu=40 uraind=S9p "立直",1 "ドラ",2 pt=52
+$End 55 558 167 220 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "South 2"]
+[Honba "0"]
+[Kyotaku "0"]
+[East "鈴木さん"]
+[South "Jack, White"]
+[West "Tom, Black"]
+[North "田中さん"]
+[Style "Horizontal"]
+{dice:2,6}
+$Start 558 167 220 55 
+doraind=9s
+0. 2m3m4m6m7m8m1p2p7p8p1sNWh 1m8m9m9m5pa5p6p7p1s8s8s9sR 2m2m5ma5m6m9m5p6p7p8p5s6s7s 3m9m2p2p6p4s4s5sa7s7sEGR 
+1. 3sN 9sR 7m9m 4m9m 2. 1pWh 8s1m 7m+8p WhR 3. Wx 5s9m Sx 9pWh 4. Ex 3m5p 4sx 2sG 5. Sx 8px 7mx 5pE 6. 4px 3p9m Nx 1p9p 
+7. Nx 7sx Gx 3p7s 8. Wx Ex Wx 2s7s 9. 1mx 8m9s Gx Gx 10. 4px 1s9s 3px 2s1p 11. Sx 2m3p Rx N3p 12. 1mx 1m+5s 5mx 9p5sa 
+13. 3s2p 3sx 9px 9p9p 14. Ex Whx 8sx 6m9p 15. 6mx #
+$Ron West fu=40 uraind=4m "立直",1 "一盃口",1 "三色同順",2 "断幺九",1 "赤ドラ",1 "裏ドラ",2 pt=160,"倍満"
+$End 398 157 390 55 
+
+[Event "Some Contest"]
+[Site "Somewhere"]
+[Round "South 3"]
+[Honba "0"]
+[Kyotaku "0"]
+[East "Jack, White"]
+[South "Tom, Black"]
+[West "田中さん"]
+[North "鈴木さん"]
+[Style "Horizontal"]
+{dice:5,4}
+$Start 157 390 55 398 
+doraind=2m
+0. 1m5ma5m1p2p6p7p8p3s5s6s9sS 1m4m4m7m7p9p1s9sESWNR 4m8m3p6p8p8p9p2s5s7s8sSWh 1m2m2m3m3m8m9m3p3p4p1s7sN 
+1. 4p9s Wh7p 4sS 7pN 2. 8m1m 6m7m 4mWh 9s7p 3. 5mS W4m 2s8m 7m1s 4. 1p8m 2m6m 1s9p 7s9s 5. 5p2p 9m2m 3s3p 6s4p 6. 5sa3s N4m W2s 8mx 
+7. 6sx 1sx 4sW 8s+7s 8. Wx 5pN Rx 5px 9. 6m1p 1p5p Whx 3px 10. 3s1p 4px Gx #
+$Ron South fu=0 "国士無双",Y pt=320,"役満"
+$End 157 720 -265 388 
+
+[Finish "-77.0,19.0,-24.0,82.0"]
